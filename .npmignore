@@ -1,0 +1,30 @@
+# Source files
+src/
+tests/
+examples/
+*.test.ts
+
+# Config files
+tsconfig.json
+jest.config.js
+.eslintrc.js
+.prettierrc
+.gitignore
+.npmignore
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CI/CD
+.github/
+
+# Documentation (except README)
+docs/
+
+# Build artifacts
+*.tsbuildinfo
+coverage/
+.nyc_output/

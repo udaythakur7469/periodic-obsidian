@@ -23,6 +23,9 @@ jest.config.js
 
 # Documentation (except README)
 docs/
+INSTALLATION.md
+SETUP.md
+PROJECT_STRUCTURE.md
 
 # Build artifacts
 *.tsbuildinfo

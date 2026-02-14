@@ -801,10 +801,7 @@ Build complete, production-ready APIs with the Periodic series!
 ## 📖 Documentation
 
 - [Quick Start Guide](QUICKSTART.md)
-- [Installation Guide](INSTALLATION.md)
-- [Setup Guide](SETUP.md)
 - [Status Code Reference](STATUS_CODES.md)
-- [Project Structure](PROJECT_STRUCTURE.md)
 - [Contributing Guide](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 

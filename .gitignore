@@ -38,3 +38,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
+# Documentation (except README)
+docs/
+INSTALLATION.md
+SETUP.md
+PROJECT_STRUCTURE.md
